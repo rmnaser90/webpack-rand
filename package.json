@@ -1,0 +1,33 @@
+{
+  "name": "userPage-API-Project-Instructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elevationacademy/userPage-API-Project-Instructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elevationacademy/userPage-API-Project-Instructor/issues"
+  },
+  "homepage": "https://github.com/Elevationacademy/userPage-API-Project-Instructor#readme",
+  "dependencies": {
+    "css-loader": "^5.0.1",
+    "expose-loader": "^1.0.3",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "style-loader": "^2.0.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
